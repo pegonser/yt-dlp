@@ -1,4 +1,4 @@
-let placeholder = "placeholder-text";
+let placeholder = "stop";
 let url = "not-placeholder";
 
 while (url != placeholder) {
